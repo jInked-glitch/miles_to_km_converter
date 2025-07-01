@@ -34,10 +34,11 @@ This project reinforces:
 
 ## 📁 Project Structure
 
-
+```
 miles_to_km_converter/
 ├── mile_to_km_converter.py # Main GUI application code
-└── README.md # Project description (this file)
+└── README.md              # Project description (this file)
+```
 
 
 ---
