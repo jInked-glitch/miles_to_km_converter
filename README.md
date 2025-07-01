@@ -38,7 +38,13 @@ This project reinforces:
 miles_to_km_converter/
 ├── mile_to_km_converter.py # Main GUI application code
 └── README.md              # Project description (this file)
+└── images/
+    └── capture.png
 ```
+
+## 💻 Screenshot
+
+![App Screenshot](images/capture.png)
 
 
 ---
