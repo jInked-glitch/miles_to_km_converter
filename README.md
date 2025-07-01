@@ -44,7 +44,7 @@ miles_to_km_converter/
 
 ## 💻 Screenshot
 
-![App Screenshot](images/capture.png)
+![App Screenshot](images/capture.PNG)
 
 
 ---
